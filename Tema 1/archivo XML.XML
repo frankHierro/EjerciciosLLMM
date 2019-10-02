@@ -1,0 +1,15 @@
+<catalog>
+   <book id="bk101">
+      <author>Glujovski, Dimitri</author>
+      <title>Metro 2033</title>
+      <genre>Post-apocalíptico</genre>
+      Ambientada en el Metro de Moscú donde los supervivientes se ocultan después de una guerra nuclear.
+   </book>
+   <!--Muy buen libro que ha inspirado a los videojuegos posteriormente sacados.-->
+   <book id="bk102">
+      <!--Este señor es un genio escribiendo libros de fantasía.-->
+      <author>Sanderson, Brandon</author>
+      <title>El imperio final</title>
+      <genre>Fantasía</genre>
+   </book>
+</catalog>

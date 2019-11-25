@@ -1,0 +1,16 @@
+<html>
+<head>
+<h1> Menú </h1>
+</head>
+
+<body>
+<ul> 
+	<li>Inicio</li>
+	<li><strong>Noticias</strong>
+		<ul style = "list-style-type: disc;">
+			<li> <a href = "Recientes/index.html" title = "Recientes">Recientes</a></li>
+			<li> <a href = "Más leídas/index.html" title = "Más leídas"><strong>Más leídas</strong></a></li>
+			<li> <a href = "Más valoradas/index.html" title = "Más valoradas">Más valoradas</a></li>
+	</li>
+</body>
+</html>	

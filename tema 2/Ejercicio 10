@@ -1,0 +1,37 @@
+<html>
+<head>
+<style>
+body {background-color: yellow;}
+
+#Lista1{
+ 	color:orange; border: 1px solid blue;}
+  
+#Lista2{
+	color:white; border: 1px solid red;}
+	
+#Lista3{
+	color: red; border: 1px solid black;}
+	
+#Lista4{
+	color:blue; border: 1px solid pink;}
+	
+p {color: black}
+
+</style>
+</head>
+<body>
+
+<h1 id ="Lista1">Lorem ipsum 1</h1>
+<p>Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum.</p>
+
+<h1 id ="Lista2">Lorem ipsum 2</h1>
+<p>Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum.</p>
+
+<h1 id ="Lista3">Lorem ipsum 3</h1>
+<p>Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum.</p>
+
+<h1 id ="Lista4">Lorem ipsum 4</h1>
+<p>Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum.</p>
+
+</body>
+</html>

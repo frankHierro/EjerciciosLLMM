@@ -1,0 +1,24 @@
+<html>
+<body>
+<h1 style= "color:red;font-family:verdana;"> Lorem ipsum </h1>
+<p style= "color:yellow;background-color:orange;font-family:courier;text-align:center;"> Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum
+Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum
+, Lorem ipsum, Lorem ipsum.</p>
+
+<h1 style= "color:red;font-family:verdana;"> Lorem ipsum </h1>
+<p style= "color:purple;background-color:white;font-family:courier;text-align:right;"> Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum
+Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum
+, Lorem ipsum, Lorem ipsum.</p>
+
+<h1 style= "color:red;font-family:verdana;"> Lorem ipsum </h1>
+<p style= "color:orange;background-color:powderblue;font-family:courier;text-align:left;"> Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum
+Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum
+, Lorem ipsum, Lorem ipsum.</p>
+
+<h1 style= "color:red;font-family:verdana;"> Lorem ipsum </h1>
+<p style= "color:blue;background-color:black;font-family:courier;text-align:justify;"> Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum
+Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum
+, Lorem ipsum, Lorem ipsum.</p>
+
+</body>
+</html>

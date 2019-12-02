@@ -1,0 +1,68 @@
+<html>
+<head>
+  <link rel = "stylesheet" href= "styleEjer13.css">
+</head>
+<body>
+
+<h1>Horario 1ºDAW</h1>
+
+<table>
+  <tr class = "egt">
+    <th> </th>
+    <th>Lunes</th>
+    <th>Martes</th>
+    <th>Miercoles</th>
+    <th>Jueves</th>
+    <th>Viernes</th>
+  </tr>
+  <tr>
+  	<td class = "egt">8:00 - 9:00</td>
+    <td>FOL</td>
+    <td>FOL</td>
+    <td rowspan="2">Sistemas Infomaticos </td>
+    <td>Sistemas Infomaticos</td>
+    <td rowspan="2">Sistemas Infomaticos </td>
+  </tr>
+  <tr>
+  	<td class = "egt">9:00 - 10:00</td>
+    <td>Lenguaje de Marcas</td>
+    <td>Lenguaje de Marcas</td>
+    <td>Base de Datos</td>
+  </tr>
+   <tr>
+    <td class = "egt">10:00 - 11:00</td>
+ 	<td>Programación</td>
+    <td>Sistemas Informaticos</td>
+    <td>Programación</td>
+    <td>Lenguaje de Marcas</td>
+    <td>Programación</td>
+  </tr>
+   <tr>
+  	<td class = "egt">11:00 - 11:30</td>
+    <td id ="color"; colspan="5"><strong>  RECREO  </td>
+  </tr>
+  <tr>
+  	<td class = "egt">11:30 - 12:30</td>
+    <td>Programación </td>
+    <td>Entornos de Desarrollo</td>
+    <td>Base de Datos</td>
+    <td rowspan="2">Programación</td>
+    <td>Programación</td>
+  </tr>
+  <tr>
+  	<td class = "egt">12:30 - 13:30</td>
+    <td>Entornos de Desarrollo</td>
+    <td>Programación</td>
+    <td>FOL</td>
+    <td rowspan="2">Base de Datos</td>
+  </tr>
+  <tr>
+  	<td class = "egt">13:30 - 14:30</td>
+    <td>Base de Datos</td>
+    <td>Base de Datos</td>
+    <td>Lenguaje de Marcas</td>
+    <td>Entornos de Desarrollo</td>
+  </tr>
+</table>
+</body>
+</html>

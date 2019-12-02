@@ -1,0 +1,18 @@
+table {
+  font-family: Comic Sans MS, sans-serif;
+  border-collapse: collapse;
+  width: 90%;
+}
+
+td, th {
+  border: 1px solid #000000;
+  text-align: center;
+  padding: 10px;
+  text-align:center;
+}
+#color {
+font-size: 45px;
+}
+.egt {
+  background-color: #f01641;
+}

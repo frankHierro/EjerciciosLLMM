@@ -1,0 +1,20 @@
+<html>
+<head>
+<link rel = "stylesheet" href= "styleEjer11.css">
+</head>
+<body>
+
+<h1>Lorem ipsum 1</h1>
+<p id ="p1">Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum.</p>
+
+<h1>Lorem ipsum 2</h1>
+<p id ="p2">Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum.</p>
+
+<h1>Lorem ipsum 3</h1>
+<p id ="p3">Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum.</p>
+
+<h1>Lorem ipsum 4</h1>
+<p id ="p4">Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum.</p>
+
+</body>
+</html>
